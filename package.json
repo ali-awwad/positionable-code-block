@@ -1,0 +1,15 @@
+{
+  "name": "positionable-code-block",
+  "version": "1.0.0",
+  "description": "Add HTML, CSS, and JavaScript to the block editor, and specify whether it should go in the head, footer, or body.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "Ali Awwad",
+  "license": "ISCGPL-2.0-or-later",
+  "dependencies": {
+    "@wordpress/scripts": "^26.12.0"
+  }
+}
