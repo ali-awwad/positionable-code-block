@@ -5,7 +5,7 @@
     "title": "Positionable Code Block",
     "category": "text",
     "icon": "media-code",
-    "description": "Add custom code to your site using the Positionable Code block. such as Google Analytics, Google Tag Manager scripts, custom Javascript or CSS, or any other custom code you want to add to your site.",
+    "description": "Add custom code in specific location.",
     "keywords": [ "custom", "code", "html", "css", "javascript", "analytics" ],
     "version": "1.0.3",
     "textdomain": "positionable-code-block",
