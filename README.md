@@ -1,6 +1,6 @@
 # Positionable Code Block
 
-[![License](https://img.shields.io/badge/license-GPL--2.0%2B-green.svg)](https://github.com/ali-awwad/positionable-code-block/blob/main/LICENSE.txt) ![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/installs/positionable-code-block?color=%23007cba&label=Active%20Installs&logo=wordpress&style=flat-square)
+[![License](https://img.shields.io/badge/license-GPL--2.0%2B-green.svg)](https://github.com/ali-awwad/positionable-code-block/blob/main/LICENSE) ![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/installs/positionable-code-block?color=%23007cba&label=Active%20Installs&logo=wordpress&style=flat-square)
 
 This plugin registers a custom block for the WordPress Block Editor. The block is called "Positionable Code Block" and allows you to add custom HTML, CSS and JavaScript to your posts and pages.
 
